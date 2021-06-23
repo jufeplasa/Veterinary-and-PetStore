@@ -1,0 +1,5 @@
+package model;
+
+enum Status {
+	WAIT,CONSULT,HOSPITALIZATION,EXIT,EXIT_WITHOUT_ATTENTION
+} 
